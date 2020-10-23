@@ -34,11 +34,7 @@ if __name__ == '__main__':
 
 - `python main.py` 运行即可。
 
-## 付费版说明:
-
-- 付费版需要的联系微信: `gtx52666`
-
 
 ## 更多资源
 
-请关注个人网站: `https://www.fenlanli.com`
+请关注个人网站: `https://www.classmatelin.top`
