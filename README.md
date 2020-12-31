@@ -35,6 +35,4 @@ if __name__ == '__main__':
 - `python main.py` 运行即可。
 
 
-## 更多资源
 
-请关注个人网站: `https://www.classmatelin.top`
